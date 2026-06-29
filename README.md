@@ -1,5 +1,7 @@
 # disgo-paginated-container
 
+[한국어로 보기](README-KO.md)
+
 ![Demo](assets/example.gif)
 
 - A library that makes it easy to create paginated Containers using ComponentsV2 in [disgo](https://github.com/disgoorg/disgo).
